@@ -1,6 +1,6 @@
 ### Hi there, I'm Ekta. 👋
 
-- :books: In senior year pursuing B.Tech CSE at GGSIPU.
+- :books: I'm in my senior year currently, pursuing B.Tech CSE at GGSIPU.
 - 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
 - 💬 Ask me about anything related open-source, I'll try my best to help.
 - 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
@@ -12,7 +12,6 @@
 * Software Engineer intern at [Red Hat](https://www.redhat.com/en)
 * Past Outreachy'20 intern with [OpenRefine](https://openrefine.org/)
 * Co-founder of [Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg)
-* 
 
 ## Tools & Technologies :computer:
 
