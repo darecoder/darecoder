@@ -7,6 +7,13 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm living cartoon, I love making others smile :)
 
+![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
+[![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
+[![Gmail Badge](https://img.shields.io/badge/-ektamishra1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ektamishra1999@gmail.com)](mailto:ektamishra1999@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=darecoder" alt="darecoder"/>
+
 ## Work Experience :woman_technologist:
 
 * Software Engineer intern at [Red Hat](https://www.redhat.com/en)
@@ -23,16 +30,17 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
- 
+
+## Recent technical blogs 🖋️
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@darecoder/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@darecoder/6" alt="Recent Article">
+
 ## My GitHub Stats ⚡
 
-![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=darecoder&show_icons=true&theme=merko)
+![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=darecoder&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
-<!-- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=darecoder&&style=flat-square&color=purple" align="center" />
-</div> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darecoder&layout=compact&show_icons=true&theme=merko)](https://github.com/darecoder/github-readme-stats) -->
-
+## Top Langauges 👩‍💻
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darecoder&hide=TeX&layout=compact)
+ 
 ## To know more about me: 
  :point_right:  <a href="https://darecoder.github.io">darecoder.github.io</a>
