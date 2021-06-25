@@ -1,4 +1,4 @@
-### Hey there, I'm Ekta. 👋
+### Hey there, I'm Ekta. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - :books: I'm in my senior year, pursuing B.Tech CSE at GGSIPU.
 - 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
@@ -42,5 +42,5 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darecoder&hide=TeX&layout=compact)
  
-## To know more about me: 
+## To know more about me :octocat:
  :point_right:  <a href="https://darecoder.github.io">darecoder.github.io</a>
