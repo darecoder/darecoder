@@ -1,6 +1,6 @@
 ### Hey there, I'm Ekta. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-- :books: I'm in my senior year, pursuing B.Tech CSE at GGSIPU.
+- 👩‍💼 Software Engineer @PhonePe
+- :books: Completed B.Tech in Computer Science from GGSIPU.
 - 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
 - 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
 - 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
