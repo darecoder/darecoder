@@ -1,7 +1,8 @@
 ### Hey there, I'm Ekta. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👩‍💼 Software Engineer @PhonePe
 - :books: Completed B.Tech in Computer Science from GGSIPU.
-- 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
+- 💻 Currently working in the Offline Merchants pod at PhonePe.
+- 🔭 At Red Hat, worked on Openshift Cluster Logging.
 - 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
 - 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
 - 😄 Pronouns: she/her/hers
